@@ -15,7 +15,7 @@ Este projeto simula um ambiente de análise de dados de um e-commerce, com o obj
 ## 🛠️ Tecnologias Utilizadas
 
 * SQL (consultas e agregações)
-* Banco de dados relacional (PostgreSQL / MySQL / Oracle)
+* Banco de dados relacional Oracle
 * Power BI (visualização de dados)
 * Git e GitHub (versionamento)
 
