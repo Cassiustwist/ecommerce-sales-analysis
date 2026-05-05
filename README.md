@@ -56,7 +56,7 @@ O dashboard foi desenvolvido no Power BI com foco em indicadores-chave de perfor
 * A categoria **Informática** concentra a maior parte da receita, indicando maior relevância no faturamento.
 * O **PIX** é o método de pagamento mais utilizado, sugerindo preferência por pagamentos instantâneos.
 * Há um aumento no volume de pedidos a partir do **mês 9**, indicando possível sazonalidade.
-* Produtos com maior valor agregado concentram a maior parte da receita total.
+* A receita está concentrada em produtos de maior valor agregado.
 
 ---
 
@@ -65,14 +65,14 @@ O dashboard foi desenvolvido no Power BI com foco em indicadores-chave de perfor
 ```
 ecommerce-sales-analysis/
 │
+├── dashboard/
+│   └── dashboard.pdf
+│
+├── images/
+│   └── dashboard.png
+│
 ├── sql/
 │   └── analysis_queries.sql
-│
-├── data/
-│   └── arquivos_exportados.csv
-│
-├── powerbi/
-│   └── dashboard.pbix
 │
 └── README.md
 ```
@@ -81,9 +81,13 @@ ecommerce-sales-analysis/
 
 ## 📷 Dashboard Preview
 
-<img width="1403" height="817" alt="image" src="https://github.com/user-attachments/assets/402b2b85-df3c-4a99-aede-a286055abe8f" />
+![Dashboard](./images/dashboard.png)
 
+---
 
+## 📄 Versão em PDF
+
+[Baixar Dashboard em PDF](./dashboard/dashboard.pdf)
 
 ---
 
